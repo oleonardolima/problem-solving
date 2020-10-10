@@ -14,7 +14,7 @@ class Solution:
         first_pass = True
         l3 = ListNode(0)
         prev_node = ListNode(0)
-        
+
         # 1st Case: both lists have a single element
         while True:
             sum = l1.val + l2.val + tmp
@@ -35,13 +35,13 @@ class Solution:
                 node = ListNode(sum)
                 prev_node.next = node
                 prev_node = node
-            
+
             if (l1.next == None or l2.next == None):
-                break    
+                break
             #print(sum)
             l1 = l1.next
             l2 = l2.next
-        
+
         if not (l1.next != None and l2.next != None):
             if (l1.next != None):
                 while (l1.next != None):
@@ -91,10 +91,10 @@ class Solution:
             node = ListNode(sum)
             prev_node.next = node
             prev_node = node
-        
+
         if tmp > 0:
                 node = ListNode(tmp)
                 prev_node.next = node
                 prev_node = node
-        
+
         return l3
