@@ -8,9 +8,9 @@
 
 ## Algorithms:
 - Sorting:
-  - [ ] Insertion Sort
-  - [ ] Bubble Sort
-  - [ ] Selection Sort
+  - [x] Insertion Sort
+  - [x] Bubble Sort
+  - [x] Selection Sort
 - Graphs:
   - [ ] Breadth First Search (BFS)
   - [ ] Depth First Search (DFS)
@@ -28,18 +28,18 @@
   - Greedy Algorithms
 
 ## LeetCode Problems:
-- [ ] Two Sum
-- [ ] Add Two Numbers
-- [ ] Longest Palindromic Substring
-- [ ] Valid Palindrome
-- [ ] Single Number
-- [ ] Reverse Linked List
-- [ ] Valid Anagram
-- [ ] Longest Increasing Subsequence
+- [x] Two Sum
+- [x] Add Two Numbers
+- [x] Longest Palindromic Substring
+- [x] Valid Palindrome
+- [x] Single Number
+- [x] Reverse Linked List
+- [x] Valid Anagram
+- [x] Longest Increasing Subsequence
 - [ ] KoKo Eating Bananas
-- [ ] Reverse Only Letters
-- [ ] Verifying an Alien Dictionary
-- [ ] Split a String in Balanced Strings
+- [x] Reverse Only Letters
+- [x] Verifying an Alien Dictionary
+- [x] Split a String in Balanced Strings
 
 ## Useful Resources:
 - Programiz
